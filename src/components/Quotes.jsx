@@ -1,6 +1,6 @@
 function Quotes() {
   const quotes = [
-    { icon: '✨', text: 'Your beautiful' },
+    { icon: '✨', text: 'Your beautiful smile' },
     { icon: '💫', text: 'Your smartness!' },
     { icon: '🌸', text: 'Your kind heart and compassionate soul' },
     { icon: '💝', text: 'How you make little moment feel special' },
